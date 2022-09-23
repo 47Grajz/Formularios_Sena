@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style:none;
+    outline: none;
+ 
+
+}
+
+body
+{
+    background-color:antiquewhite;
+}
+
+.formulario
+{
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    background-color:antiquewhite;
+    height: 50vh;
+    margin-top:80px ;
+}
+
+input
+{
+    height: 30px;
+    border-radius:20px ;
+    padding: 10px;
+}
+
+input:hover
+{
+    border-color: green;
+
+}
+
+
+
+button
+{
+    width: 80px;
+    height: 25px;
+    border-radius: 15px;
+    font-family: 'Roboto Mono', monospace;
+    
+}
+
+button:hover
+{
+    background-color: green;
+    border-color: green;
+
+}
+
+textarea
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+
+
+
+.lottie
+{
+    background-color:antiquewhite;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+}
+
+
